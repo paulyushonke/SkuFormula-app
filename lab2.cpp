@@ -25,7 +25,7 @@ int main()
     {
         do
         {
-            cout << "oops!step should be positive!";
+            cout << "awwwwww!step should be positive!";
             step = request_input_til_valid_double("step");
         } while (!(step > 0));
     }
